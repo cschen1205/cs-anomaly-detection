@@ -1,6 +1,5 @@
+*.user
+*.suo
 *.exe
 *.dll
-*.suo
-*.user
-*.testsettings
 *.obj
